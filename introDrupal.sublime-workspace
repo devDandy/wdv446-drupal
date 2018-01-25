@@ -599,6 +599,9 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Dschn/Desktop/Classes/drupal wdv446/drupal/app/sites/README.txt",
+		"/C/Users/Dschn/Desktop/Classes/drupal wdv446/drupal/app/sites/default/settings.php",
+		"/C/Users/Dschn/Desktop/Classes/drupal wdv446/drupal/app/sites/example.sites.php",
 		"/C/Users/Dschn/Desktop/To Github/portfolioDaySplashPage/index.php",
 		"/C/Users/Dschn/Desktop/To Github/portfolioDaySplashPage/assets/js/countdown.js",
 		"/C/Users/Dschn/Desktop/To Github/portfolioDaySplashPage/assets/scss/main.scss",
@@ -723,14 +726,11 @@
 		"/C/Users/Dschn/Downloads/time_preferences.sql",
 		"/C/Users/Dschn/AppData/Local/Temp/Rar$DIa0.553/presentersDelete.php",
 		"/C/Users/Dschn/AppData/Local/Temp/Rar$DIa0.284/presentersDelete.php",
-		"/C/Users/Dschn/OneDrive/Documents/Websites/devDandy/homework/wdv341/SQL/localhost/selectOneEvent.php",
-		"/C/Users/Dschn/OneDrive/Documents/Websites/devDandy/homework/wdv321/react/build/index.html",
-		"/C/Users/Dschn/Desktop/reactSurvey/react_survey/build/manifest.json",
-		"/C/Users/Dschn/Desktop/reactSurvey/react_survey/package.json"
+		"/C/Users/Dschn/OneDrive/Documents/Websites/devDandy/homework/wdv341/SQL/localhost/selectOneEvent.php"
 	],
 	"find":
 	{
-		"height": 61.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -927,7 +927,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 39.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -964,7 +964,7 @@
 	"project": "introDrupal.sublime-project",
 	"replace":
 	{
-		"height": 73.0
+		"height": 63.0
 	},
 	"save_all_on_build": true,
 	"select_file":
